@@ -1,0 +1,704 @@
+body{
+	background: #AADCD0 url(../img/pkb_poolBlueBK_1920x1280.jpg);
+	color:#3f201b;
+	font-family: Helvetica, Arial, san-serif;
+}
+header, nav, footer, section{
+	display:block;
+}
+a{
+	color:#3f201b;
+	text-decoration: none;
+}
+a:hover, a:focus{
+	background:#9FCECB;
+	color:#fff;
+	text-decoration: none;
+}
+/* Header */
+header{
+	position:fixed;
+	top:0;
+	width:100%;
+	height:55px;
+	z-index: 10;
+	}
+#header_container{
+	top:-30px;
+	width:960px;
+	height:55px;
+	margin:-10px auto 0px;
+	background: #fff url(../img/pkbSite_headerBKFW.jpg) no-repeat;
+	-moz-border-top-left-radius:15px; 
+	-moz-border-top-right-radius:15px;
+	border-top-left-radius:15px; 
+	border-top-right-radius:15px;
+	-moz-box-shadow:0 0 20px rgba(0,0,0,0.35);
+	-webkit-box-shadow:0 0 20px rgba(0,0,0,0.35);
+	box-shadow:0 0 20px rgba(0,0,0,0.35);
+	z-index: 9;
+}
+#logo{
+	position:relative;
+	top:-22px;
+	left:20px;
+	z-index: 20;
+	float:left;
+}
+#logo a{
+	background: none;
+}
+nav{
+	float:left;
+	position: relative;
+	top: 11px;
+	left: 10px;
+	/*width: 350px;*/
+	height: 25px;
+	font-weight: bold;
+	display:inline;
+}
+nav ul li{
+	float:left;
+	/*width:100px;*/
+	margin:0 2px 0 0;
+}
+nav ul li a{
+	background:#3F201B;
+	color:#f1e5d5;
+	text-decoration: none;
+	/*width:100px;*/
+	padding: 10px 20px;
+	font-size: 16px;
+	-moz-border-bottom-left-radius:12px; 
+	-moz-border-bottom-right-radius:12px;
+	border-bottom-left-radius:12px; 
+	border-bottom-right-radius:12px;
+}
+nav ul li a.first{
+	width:120px;
+	-moz-border-bottom-left-radius:0px; 
+	border-bottom-left-radius:0px; 
+}
+nav ul li a:hover, a:focus{
+	color:#fff;
+	background: #9FCECB;
+	text-decoration: none;
+}
+nav ul li a.active{
+	background:#9FCECB;
+	color:#3F201B;
+	margin-top: -10px;
+	padding: 10px 20px;
+	font-size: 16px;
+	/*width:120px;*/
+	height: 100%;
+	-moz-border-bottom-right-radius:12px;
+	border-bottom-right-radius:12px;
+	-moz-border-bottom-left-radius:0px; 
+	border-bottom-left-radius:0px; 
+}
+nav ul li a.active:hover, a.active:focus{
+	color:#fff;
+	text-decoration: none;
+}
+#cover{
+	/*position:fixed;*/
+	z-index: 5;
+	top:0;
+	width:960px;
+	height:30px;
+	margin: 0 auto;
+	background: #AADCD0 url('../img/pkboo_poolBlueCVR_960x30.jpg') no-repeat;
+	-moz-box-shadow:0 0 10px rgba(0,0,0,0.2);
+	-webkit-box-shadow:0 0 10px rgba(0,0,0,0.2);
+	box-shadow:0 0 10px rgba(0,0,0,0.2);
+}
+/* Shopify */
+#cart{
+	position:relative;
+	top: 11px;
+	margin-right:25px;
+	float:right;
+	font-weight: bold;
+	z-index: 30;
+	width:240px;
+}
+#cart img{
+	float:left;
+	margin:-1px 5px 0 0;
+}
+#shopify{
+	float:left;
+	font-weight: normal;
+	font-size:12px;
+	margin:2px 5px;
+	display: inline;  
+}
+#shopify p{
+	float:left;
+	margin-right: 5px;
+	display: inline;
+	-webkit-margin-before:0;
+	-webkit-margin-after:0;
+}
+#checkout{
+	float:left;
+	display:inline;
+}
+#checkout a{
+	background:#3F201B;
+	color:#f1e5d5;
+	text-decoration: none;
+	/*width:100px;*/
+	padding: 10px 20px;
+	font-size: 16px;
+	-moz-border-bottom-left-radius:12px; 
+	-moz-border-bottom-right-radius:12px;
+	border-bottom-left-radius:12px; 
+	border-bottom-right-radius:12px;
+	/*-moz-box-shadow:0 0 10px rgba(0,0,0,0.35);
+	-webkit-box-shadow:0 0 10px rgba(0,0,0,0.35);
+	box-shadow:0 0 10px rgba(0,0,0,0.35);
+	border-bottom:solid 1px #f1e5d5;
+	border-right:solid 1px #f1e5d5;
+	*/
+}
+#checkout a:hover, a:focus{
+	/*background:#fff;
+	color:#3F201B;*/
+	color:#fff;
+	text-decoration: none;
+}
+/* Main */
+#content_container{
+	width:960px;
+	height: 630px;
+	margin:75px auto 0px;
+	background: #fff;
+	/*-moz-box-shadow:0 0 20px rgba(0,0,0,0.35);
+	-webkit-box-shadow:0 0 20px rgba(0,0,0,0.35);
+	box-shadow:0 0 20px rgba(0,0,0,0.35);*/
+}
+#contentL{
+	float: left;
+	position:relative;
+	top:50px;
+	left:60px;
+	width:200px;
+	height:460px;
+	padding-top: 20px;
+}
+#contentL h1{
+	font-family: serif;
+	font-size: 50px;
+	letter-spacing: -2px;
+	line-height: 40px;
+	margin-bottom:20px;
+}
+#contentL h2{
+	font-family: serif;
+	font-size: 20px;*/
+	letter-spacing: -1px;
+}
+#contentL p{
+	font-size: 14px;
+	margin-bottom:10px;
+	line-height: 16px;
+}
+#contentL a{
+	color:#3F201B;
+	text-decoration: none;
+}
+#contentL a:hover, a:focus{
+	color:#9fcecb;
+}
+#contentR{
+	float:left;
+	position:relative;
+	top:50px;
+	left:140px;
+	width:560px;
+	height:460px;
+}
+.stitching{
+	height:10px;
+	background: url(../img/pkBoo_stitching_header.jpg) no-repeat;
+}
+p.caption{
+	font-size: 12px;
+}
+.name{
+	font-weight: bold;
+}
+.clear{
+	clear: both;
+}
+/* Footer */
+footer{
+	width:960px;
+	margin:0 auto 20px;
+	background: #fff;
+	/*-moz-box-shadow:0 0 20px rgba(0,0,0,0.35);
+	-webkit-box-shadow:0 0 20px rgba(0,0,0,0.35);
+	box-shadow:0 0 20px rgba(0,0,0,0.35);*/
+	-moz-border-bottom-left-radius:15px; 
+	-moz-border-bottom-right-radius:15px;
+	border-bottom-left-radius:15px; 
+	border-bottom-right-radius:15px;
+	height:40px;
+	padding-top:30px;
+	float:none;
+}
+#legal ul {
+	margin-left:25px;
+}
+#legal ul li {
+	float:left;
+	list-style: none;
+	border-right: 1px solid #3f201b;
+	font-size: 12px;
+	height:12px;
+}
+#legal ul li.last{
+	border-right: none;
+}
+#legal ul li a{
+	text-decoration: none;
+	color:#3f201b;
+	margin:0 5px;
+	height:12px;
+}
+#legal ul li a:hover, li a:focus{
+	text-decoration: none;
+	color:#3f201b;
+	background:#aadcd0;
+}
+#contact{
+	float:right;
+	position:relative;
+	right:25px;
+	margin-bottom: 20px;
+}
+#contact ul{
+	float:left;
+}
+#contact ul li{
+	float:left;
+	list-style: none;
+	margin-right: 5px;
+	width:28px;
+	height:28px;
+	display:block;
+	position: relative;
+	top:-15px;
+}
+#contact ul li a img{
+	position: relative;
+	top:-15px;
+}
+#contact ul li a{
+	width:28px;
+	height:28px;
+	display:block;
+}
+#contact ul li a.email{
+	background: url('../img/email_ICON.gif') 0 0 no-repeat;
+}
+#contact ul li a:hover.email, #contact ul li a:focus.email{
+	background: url('../img/email_ICON.gif') 0 -32px no-repeat;
+}
+#contact ul li a.facebook{
+	background: url('../img/facebook_ICON.gif') 0 0 no-repeat;
+}
+#contact ul li a:hover.facebook, #contact ul li a:focus.facebook{
+	background: url('../img/facebook_ICON.gif') 0 -32px no-repeat;
+}
+#contact ul li a.twitter{
+	background: url('../img/twitter_ICON.gif') 0 0 no-repeat;
+}
+#contact ul li a:hover.twitter, #contact ul li a:focus.twitter{
+	background: url('../img/twitter_ICON.gif') 0 -32px no-repeat;
+}
+#contact p{
+	float:left;
+	margin-left: 5px;
+	font-size: 16px;
+	font-weight: bold;
+}
+#copyright{
+	float: left;
+	margin-left: 150px;
+	font-size: 10px;
+	position:relative;
+	top:1px;
+}
+
+/* Product Page */
+#content_container.product_page{
+	/*height:2500px;*/
+	height:2100px;
+	/*height:100%;*/
+	padding-bottom: 10px;
+}
+#content_wrap{
+	padding-top:45px;
+	padding-left:70px;
+	/*height:100%;*/
+	/*padding-bottom: 10px;*/
+}
+.stitch2{
+	background: url(../img/pkboo_stitching2.jpg) no-repeat;
+	width:100%;
+	height:10px;
+}
+.product_header{
+	width:100%;
+	height:30px;
+}
+.product_header h1{
+	float:left;
+	font-size: 30px;
+	font-family: serif;
+	margin-right:10px;
+}
+.product_header p{
+	float:left;
+	font-size: 14px;
+	padding-top:12px;
+}
+.productRow a{
+	color:#3f201b;
+	text-decoration: none;
+}
+.item{
+	margin:0 20px 20px 0;
+	float:left;
+	width:260px;
+	height:276px;
+}
+.item img{
+	position:relative;
+	z-index: 1;
+	left:0;
+	clear: none;
+	top:-40px;
+}
+.product_name{
+	float:left;
+	position:relative;
+	width:260px;
+	margin-bottom: 5px;
+}
+.pname {
+	font-family: serif;
+	font-size:25px;
+	font-weight: bold;
+}
+.pstyle {
+	float:right;
+	font-size:12px;
+	margin-bottom:2px;
+	padding-top:12px;
+}
+.itemBox{
+	width:260px;
+	height:250px;
+	border:solid 1px #3F201B;
+}
+.price{
+	float:left;
+	position:relative;
+	z-index:2;
+	width:80px;
+	height:40px;
+	font-family:serif;
+	font-size:20px;
+	letter-spacing: 1px;
+	background: #3F201B;
+	color:#F1E5D5;
+	text-align: center;
+	vertical-align: middle;
+	border-bottom-left-radius:10px;
+	left:180px;
+	clear:none;
+}
+.price p{
+	padding-top:10px;
+}
+#text{
+	width:820px;
+}
+#text p{
+	font-size:14px;
+	margin:10px 0 10px;
+	line-height: 18px;
+}
+#text h1{
+	font-size:14px;
+	margin:10px 0 10px;
+	font-weight:bold;
+}
+#text a {
+	text-decoration: none;
+	color:#3F201B;
+}
+#text a:hover, a:focus {
+	color:#AADCD0;
+}
+/* Product Details Pages */
+#content_container.product_detail_page{
+	padding-bottom: 10px;
+}
+#content_container.changingPad_productDetail_page{
+	padding-bottom: 10px;
+	height:600px;
+}
+#content_container.tote_productDetail_page{
+	padding-bottom: 10px;
+	height:540px;
+}
+#content_container.bib_productDetail_page{
+	padding-bottom: 10px;
+	height:780px;
+}
+#content_container.burpCloth_productDetail_page{
+	padding-bottom: 10px;
+	height:530px;
+}
+#content_wrap.detail{
+	width:820px;
+}
+#back{
+	font-size:14px;
+	height:16px;
+	text-align: right;
+	float:right;
+	margin-top: 8px;
+}
+#back a{
+	text-decoration: none;
+	color:#AADCD0;
+}
+#back a:hover, a:focus {
+	color:#3F201B;
+}
+.product_detail_page .product_name{
+	float:left;
+}
+.detailLeftColumn{
+	margin:5px 0 20px;
+	float:left;
+	width:535px;
+}
+.detailLeftColumn img{
+	border: 1px solid #3F201B;
+}
+.detailLeftColumn a:hover, a:focus{
+	background: #9fcecb;
+}
+#styleSelect{
+	margin:0 0 10px;
+	width:250px;
+	float:none;
+}
+#styleSelect p{
+	font-size: 14px;
+	margin-bottom: 5px;
+}
+#imgDot{
+	float:right;
+	margin-top: 2px;
+}
+#imgDot a{
+	float: right;
+	width:14px;
+	height:14px;
+	background-color: #f1e5d5;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	margin-left: 10px;
+}
+#imgDot a:hover, a:focus{
+	background-color: #9fcecb;
+}
+#imgDot a.DotOn{
+	background-color: #9fcecb;
+}
+.detailLeftColumn img{
+	top:0;
+	margin:10px 10px 5px 0;
+}
+.detailRightColumn{
+	float:right;
+	width:262px;
+	margin:0 0 20px;
+}
+#priceName{
+	display:block;
+	width:100%;
+	height:60px;
+	float:none;
+}
+.product_name_detail{
+	position:relative;
+	float:left;
+	margin:-2px 0 0;
+}
+.product_name_detail p{
+	font-size:12px;
+	margin-bottom:2px;
+	margin-top: 3px;
+}
+.product_name_detail h1{
+	font-family: serif;
+	font-size:25px;
+	letter-spacing: 1px;
+	padding-top:5px;
+}
+#detailCartNav{
+	display:block;
+	height:30px;
+	width:100%;
+	margin-bottom: 20px;
+}
+.quantityCounter{
+	float:left;
+	width:60px;
+	height:30px;
+	margin:0 5px 5px;
+	text-align: center;
+	vertical-align:top;
+}
+.quantityCounter img{
+	background: transparent;
+	margin:0;
+}
+.quantityCounter a{
+	float:left;
+	background: #f1e5d5;
+	width:15px;
+	height:30px;
+	vertical-align: top;
+}
+.quantityCounter a:focus, a:hover{
+	background-color: #fff;
+	vertical-align: top;
+}
+#quant{
+	float: left;
+	font-size: 16px;
+	vertical-align: top;
+	margin:8px 5px;
+}
+#cartBTN a{
+	float:right;
+	background:#3F201B;
+	color:#f1e5d5;
+	text-decoration: none;
+	width:112px;
+	height:30px;
+	font-size: 16px;
+	font-weight: bold;
+	-moz-border-bottom-right-radius:12px;
+	border-bottom-right-radius:12px;
+}
+#cartBTN a:hover, a:focus{
+	color:#fff;
+	text-decoration: none;
+}
+#cartBTN p{
+	margin:8px;
+}
+.detailPrice{
+	float:left;
+	position:relative;
+	width:80px;
+	height:30px;
+	font-family: serif;
+	font-size:20px;
+	letter-spacing: 1px;
+	background: #AADCD0;
+	border-bottom-left-radius:10px;
+}
+.detailPrice p{
+	float:right;
+	margin:8px;
+	font-weight: 200;
+}
+.item_detail{
+	margin:10px 0 20px 0;
+	float:left;
+	width:535px;
+}
+.text_detail{
+	font-size: 14px;
+	line-height: 1.25;
+	width:240px;
+	margin-left: 22px;
+}
+.text_detail p{
+	margin-bottom: 10px;
+}
+.text_detail ul{
+	padding:0 25px 0 13px;
+}
+.text_detail li{
+	margin-bottom: 10px;
+}
+.superscript{
+	font-size:11px;
+	position:relative;
+	top:-4px;
+}
+/* About page */
+#content_container.about_page{
+	height:640px;
+	padding-bottom: 10px;
+}
+.aboutPage{
+	position:relative;
+	top:50px;
+	left:60px;
+	width:816px;
+	height:460px;
+	padding-top:20px;
+}
+.aboutPage h1{
+	font-family:serif;
+	font-size:30px;
+	line-height:10px;
+	margin-bottom:10px;
+}
+.stitchAbout{
+	background: url(../img/pkBoo_about_stitching.gif) no-repeat;
+	width:816px;
+	height:10px;
+}
+.aboutText{
+	float:left;
+	width:330px;
+	height:400px;
+}
+.aboutText p{
+	font-size:14px;
+	margin:10px 0 10px;
+	line-height:18px;
+}
+.aboutText h1{
+	font-size:14px;
+	margin:10px 0 10px;
+	font-weight:bold;
+}
+.aboutText a {
+	text-decoration: none;
+	color:#3F201B;
+}
+.aboutText a:hover, a:focus {
+	color:#AADCD0;
+}
+.aboutIMG{
+	float:right;
+}

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta	charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" >
+		<meta name="description" content={{ site.description }} >
+		<title>{{ site.name }}</title>
+		<link href='http://fonts.googleapis.com/css?family=Lusitana:400,700' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="icomoon/style.css">
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+	</head>
+	<body>
+		<div id="container">
+		<header>
+			<div id="cover"></div>
+			<div id="logo"><a href="/"><img src="img/pkb_logoTag.png" alt="pkboo logo tag" width="200" height="106" /></a></div>
+			<div id="header_container">
+					<nav style="display:none">
+						<!-- <li id="plus"><a class="icon icon-menu" href="#"></a></li> -->
+						<li id="plus" style="display:none"><span class="icon icon-menu"></span></li>
+						<!-- <li><a class="first" href="htm/products.html">Products</a></li> -->
+						<!-- <li><a href="#">Press</a></li> -->
+						<li><a href="htm/about.html">About</a></li>
+						<li><a href="http://pkbookids.tumblr.com" target="_blank">Blog</a></li>
+					</nav>
+				<div id="cart">
+					<!-- <img src="img/pkb_shoppingCartICON.gif" alt="pkboo shopping cart" width="19" height="18" /> -->
+					<!-- <div id="shopify"><p>0 items</p><p>|</p><p>$0.00</p></div> -->
+					<!-- <div id="checkout"><a href="#">Checkout</a></div> -->
+					<div id="checkout"><a href="https://www.etsy.com/shop/pkbookids">Buy Now</a></div>
+				</div>
+			</div>
+		</header>
+{{ content }}
+		<footer>
+			<ul id="legal" style="display:none">
+				<li>
+					<a href="#">Customer Service</a>
+				</li><li>
+					<a href="#">Shipping</a>
+				</li><li>
+					<a href="#">Returns</a>
+				</li><li>
+					<a href="#">Wholesale</a>
+				</li><li>
+					<a href="#">Privacy Policy</a>
+				</li><li class="last">
+					<a href="#">Terms of Use</a>
+				</li>
+			</ul>
+			<ul id="contact">
+				<li id="copyright">&copy; 2011 pkboo kids llc. All rights reserved.</li>
+				<li>
+					<a class="email icon icon-mail" href="mailto:info@pkbookids.com" target="_blank"></a>
+				</li><li>
+					<a class="facebook icon icon-facebook" href="http://www.facebook.com/pkbookids" target="_blank"></a>
+				</li><li>
+					<a class="twitter icon icon-twitter" href="http://twitter.com/#!/pkbookids" target="_blank"></a>
+				</li><li>
+					<a class="pinterest icon icon-pinterest" href="http://pinterest.com/pkbookids" target="_blank"></a></li>
+			</ul>
+		</footer>
+		</div>
+
+		<script>
+			{% include js/main.js %}
+		</script>
+	</body>
+</html>

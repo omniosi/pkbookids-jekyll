@@ -1,0 +1,18 @@
+.icon-menu {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe602;');
+}
+.icon-mail {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe603;');
+}
+.icon-facebook {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe604;');
+}
+.icon-twitter {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe600;');
+}
+.icon-linkedin {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe601;');
+}
+.icon-pinterest {
+	*zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe605;');
+}

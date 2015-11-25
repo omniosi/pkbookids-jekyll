@@ -1,0 +1,1196 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"about",
+				"aboutText	(about.html)"
+			],
+			[
+				"clear",
+				"clearAllDesktop	(level4.html)"
+			],
+			[
+				"foot",
+				"footerClose"
+			],
+			[
+				"top",
+				"topClose"
+			],
+			[
+				"co",
+				"cover	(home-styles.php)"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"oy",
+				"ovy-s	overflow-y: scroll;"
+			],
+			[
+				"dis",
+				"display:none	(footer.php)"
+			],
+			[
+				"ta-l",
+				"text-align"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"ma",
+				"m-a	margin: auto;"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"fw",
+				"fw-b	font-weight: bold;"
+			],
+			[
+				"display",
+				"display:block	(footer-styles.php)"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"before",
+				"page-break-before"
+			],
+			[
+				"blok",
+				"block"
+			],
+			[
+				"displ",
+				"display:block	(footer-styles.php)"
+			],
+			[
+				"footer",
+				"footerClose	(top-menu-scripts.php)"
+			],
+			[
+				"add",
+				"addEventListener	(footer-scripts.php)"
+			],
+			[
+				"tc",
+				"table-cell"
+			],
+			[
+				"vert",
+				"vertical-align"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"ta",
+				"tal-c	text-align-last: center;"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"ti",
+				"ti--	text-indent: -9999px;"
+			],
+			[
+				"bs",
+				"background-size"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"bas",
+				"background-size"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"sol",
+				"solutionsSubClose	(top-menu-scripts.php)"
+			],
+			[
+				"acc",
+				"acctSubClose	(top-menu-scripts.php)"
+			],
+			[
+				"sea",
+				"searchClose	(top-menu-scripts.php)"
+			],
+			[
+				"products",
+				"productsClose	(footer-scripts.php)"
+			],
+			[
+				"lang",
+				"langClose	(footer-scripts.php)"
+			],
+			[
+				"pro",
+				"productsClose"
+			],
+			[
+				"menu",
+				"menu-lang"
+			],
+			[
+				"displa",
+				"display"
+			],
+			[
+				"men",
+				"menu-prod"
+			],
+			[
+				"slide",
+				"slideUp	(top-menu-scripts.php)"
+			],
+			[
+				"styl",
+				"style	(index.php)"
+			],
+			[
+				"prod",
+				"products"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ff",
+				"font-family"
+			],
+			[
+				"br",
+				"border-right"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"sa",
+				"span	Tag"
+			],
+			[
+				"inc",
+				"include	(index0.php)"
+			],
+			[
+				"solut",
+				"solutionsClose"
+			],
+			[
+				"tt",
+				"text-transform"
+			],
+			[
+				"bd-r",
+				"border-right"
+			],
+			[
+				"ico",
+				"icomoon-bia"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"sear",
+				"searchClose"
+			],
+			[
+				"solu",
+				"solutionsClose"
+			],
+			[
+				"user",
+				"user-account"
+			],
+			[
+				"getElements",
+				"getElementsByClassName('search"
+			],
+			[
+				"ls",
+				"letter-spacing"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"class",
+				"class"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"bdrb",
+				"border-bottom"
+			],
+			[
+				"va",
+				"vertical-align"
+			],
+			[
+				"search",
+				"searchField"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"type",
+				"type=\"text"
+			],
+			[
+				"drop",
+				"dropIcon"
+			],
+			[
+				"mobile",
+				"mobile-menu"
+			],
+			[
+				"height",
+				"height:40px"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pos",
+				"pos:r	position:relative"
+			],
+			[
+				"t",
+				"t	top"
+			],
+			[
+				"point",
+				"pointer"
+			],
+			[
+				"fa",
+				"faded"
+			],
+			[
+				"fade",
+				"fadeup"
+			],
+			[
+				"one",
+				"oneF"
+			],
+			[
+				"time",
+				"timeoutID"
+			],
+			[
+				"bdr",
+				"bdrz	border-radius"
+			],
+			[
+				"sans",
+				"sans-serif"
+			],
+			[
+				"bclr",
+				"border-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_layouts/default.html",
+			"settings":
+			{
+				"buffer_size": 2695,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "returns.html",
+			"settings":
+			{
+				"buffer_size": 936,
+				"line_ending": "Unix",
+				"name": "<div id=\"content_container\" class=\"_page\">"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 863,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1336,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 1717,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "customer-service.html",
+			"settings":
+			{
+				"buffer_size": 374,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "shipping.html",
+			"settings":
+			{
+				"buffer_size": 928,
+				"line_ending": "Unix",
+				"name": "---"
+			}
+		},
+		{
+			"file": "wholesale.html",
+			"settings":
+			{
+				"buffer_size": 303,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "privacy-policy.html",
+			"settings":
+			{
+				"buffer_size": 16724,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "terms-conditions.html",
+			"settings":
+			{
+				"buffer_size": 19727,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/sass/style.scss",
+			"settings":
+			{
+				"buffer_size": 6254,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/sass/_tablet.scss",
+			"settings":
+			{
+				"buffer_size": 255,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/sass/_desktop.scss",
+			"settings":
+			{
+				"buffer_size": 2722,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 230.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/osi-mbp/Documents/_odc/WEB/pkBooKids/jekyll",
+		"/Users/osi-mbp/Documents/_odc/WEB/pkBooKids/jekyll/js"
+	],
+	"file_history":
+	[
+		"/Users/osi-mbp/Documents/_odc/WEB/pkBooKids/jekyll/_config.yml",
+		"/Users/osi-mbp/Documents/_odc/WEB/pkBooKids/v2/htm/about.html",
+		"/Users/osi-mbp/Documents/_odc/WEB/pkBooKids/jekyll/css/style.css",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/jekyll/_includes/products.js",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/jekyll/_includes/products-desktop.css",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/jekyll/_includes/products.css",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/jekyll/_layouts/default.html",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/jekyll/level4.html",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/jekyll/_includes/solutions.css",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/jekyll/styles/new.css",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/jekyll/_site/styles/solutions-tablet.css",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/jekyll/styles/solutions-desktop.css",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/jekyll/styles/solutions-tablet-styles.css",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/jekyll/_site/index.html",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/top-menu.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/networked-media-systems.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/networked-media-systems/index.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/home.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/biamp.sublime-workspace",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/_src/current_code_base/scripts/mega-menu.js",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/head.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/products/desktop-styles.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/products/tablet-styles.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/products/styles.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/products/products.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/home-tablet-styles.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/index.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/top-menu-desktop-styles.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/top-menu-styles.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/top-menu-scripts.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/home-desktop-styles.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/footer-scripts.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/footer-desktop-styles.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/footer-tablet-styles.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/footer-styles.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/footer.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/home-styles.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/products.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/README.md",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/_src/Biamp_indd/BIAMPWEB_V11.html",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/global-styles.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/modules/global-scripts.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/styles/new.css",
+		"/Users/osi-mbp/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/osi-mbp/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/fonts/icomoon-bia/style.css",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/top-menu-scripts.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/top-menu-styles.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/top-menu.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/.gitignore",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/external-scripts.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/head.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/top-menu.html",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/top-menu_desktop_styles.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/index0.php",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/fonts/icomoon-bia/demo.html",
+		"/Users/osi-mbp/Downloads/jquery-ui-1.11.4.custom/jquery-ui.structure.css",
+		"/Users/osi-mbp/Downloads/jquery-ui-1.11.4.custom/jquery-ui.css",
+		"/Users/osi-mbp/Downloads/jquery-ui-1.11.4.custom/jquery-ui.min.js",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/fonts/icomoon-bia/demo-files/demo.css",
+		"/Users/osi-mbp/Documents/Mathys-Potestio/biamp/fonts/icomoon-bia/demo-files/demo.js",
+		"/Users/osi-mbp/Documents/_odc/CONCEPTS/digital-print/scifinow/batman-animated/js/content.json",
+		"/Users/osi-mbp/Documents/_odc/CONCEPTS/digital-print/harvey-nichols/css/style.css",
+		"/Users/osi-mbp/Documents/_odc/CONCEPTS/digital-print/scifinow/batman-animated/css/style.css",
+		"/Users/osi-mbp/Documents/_odc/CONCEPTS/digital-print/scifinow/batman-animated/.gitignore",
+		"/Users/osi-mbp/Documents/_odc/CONCEPTS/digital-print/scifinow/batman-animated/batman-animated.sublime-project"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"li",
+			"content",
+			"..",
+			">",
+			"..",
+			"<li>",
+			"main-menu",
+			"<a href=\"#\"",
+			"<li>",
+			"<li class",
+			"main-menu",
+			"h1>",
+			"<span class=\"icon icon-navigate_next\"></span>",
+			"</a>",
+			"<a ",
+			"searchBox",
+			"opening",
+			"one",
+			"hide",
+			"add",
+			"<span class=\"more\">more</span>",
+			"height",
+			"20%",
+			"D68D1F",
+			"362308"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_layouts/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1773,
+								1773
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 628.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "returns.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								928,
+								928
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<div id=\"content_container\" class=\"_page\">",
+							"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/main.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								863,
+								863
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 253.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1336,
+								1336
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1717,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "customer-service.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								48
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "shipping.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 928,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								40
+							]
+						],
+						"settings":
+						{
+							"auto_name": "---",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "wholesale.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								41
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "privacy-policy.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16724,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								46
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "terms-conditions.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19727,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "css/sass/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4772,
+								4772
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6694.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "css/sass/_tablet.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 255,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "css/sass/_desktop.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2722,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1879,
+								1879
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1754.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 122.0
+	},
+	"pinned_build_system": "",
+	"project": "pkboo-jekyll.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"content",
+				"modules/products/content.php"
+			],
+			[
+				"home",
+				"modules/home.php"
+			],
+			[
+				"main",
+				"img/user-account-icon.svg"
+			],
+			[
+				"global",
+				"modules/global-styles.php"
+			],
+			[
+				"top",
+				"modules/top-menu-styles.php"
+			],
+			[
+				"prod",
+				"products.php"
+			],
+			[
+				"footer",
+				"modules/footer-desktop-styles.php"
+			],
+			[
+				"foote",
+				"modules/footer-styles.php"
+			],
+			[
+				"hom",
+				"modules/home-desktop-styles.php"
+			],
+			[
+				"",
+				"modules/home-desktop-styles.php"
+			],
+			[
+				"colo",
+				"modules/color-guide.php"
+			],
+			[
+				"foot",
+				"modules/footer-styles.php"
+			],
+			[
+				"glo",
+				"modules/global-scripts.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"top-menu",
+				"modules/top-menu-scripts.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Mathys-Potestio/biamp/jekyll/biamp-jekyll.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
