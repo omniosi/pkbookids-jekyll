@@ -203,12 +203,20 @@ header {
         #content_container #contentR p.caption .name {
           font-family: "Lusitana", serif;
           font-weight: bold; }
+  #content_container.page,
   #content_container .aboutPage {
-    padding: 50px 50px 0; }
+    padding: 50px 50px 0;
+    min-height: 400px; }
+    #content_container.page h1,
     #content_container .aboutPage h1 {
       font-family: serif;
       font-size: 30px;
-      margin-bottom: 10px; }
+      margin-bottom: 10px;
+      background: url("../img/pkBoo_about_stitching.gif") 50% no-repeat;
+      background-position: 0 bottom;
+      padding-bottom: 15px; }
+    #content_container.page .stitchAbout,
+    #content_container.page .stitching,
     #content_container .aboutPage .stitchAbout,
     #content_container .aboutPage .stitching {
       width: 816px;
@@ -216,9 +224,28 @@ header {
       background: url("../img/pkBoo_about_stitching.gif") 50% no-repeat;
       position: relative;
       top: -10px; }
+    #content_container.page .aboutText img,
     #content_container .aboutPage .aboutText img {
       float: left;
       margin: 0 30px 30px 0; }
+    #content_container.page p,
+    #content_container .aboutPage p {
+      padding-bottom: 10px; }
+      #content_container.page p a,
+      #content_container .aboutPage p a {
+        display: inline-block; }
+      #content_container.page p:first-child,
+      #content_container .aboutPage p:first-child {
+        font-style: italic; }
+    #content_container.page h2,
+    #content_container .aboutPage h2 {
+      padding-bottom: 10px; }
+    #content_container.page td,
+    #content_container .aboutPage td {
+      padding-bottom: 10px; }
+    #content_container.page tr:first-child,
+    #content_container .aboutPage tr:first-child {
+      font-weight: 700; }
 
 footer {
   padding: 20px 10px;
@@ -361,11 +388,9 @@ footer {
             border-right: none; }
       footer ul#contact {
         padding-top: 0;
-        padding-left: 5%;
-        padding-left: 1%;
         display: inline-block; }
         footer ul#contact li {
-          padding: 0 3px; }
+          padding: 0 0 0 6px; }
           footer ul#contact li a {
             font-size: 1.75em; } }
 @media (min-width: 750px) and (max-width: 855px) {

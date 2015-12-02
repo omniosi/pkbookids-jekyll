@@ -1,7 +1,7 @@
 (function(){
 
-var cart = document.getElementById('cart'),
-				moreless = document.getElementsByClassName('moreless')[0],
+var cart = document.getElementById('cart');
+var moreless = document.getElementsByClassName('moreless')[0],
 				cont = document.getElementsByClassName('cont')[0];
 
 cont.style.display = 'none';
