@@ -190,8 +190,7 @@ header {
   #content_container #contentR {
     width: 100%; }
     #content_container #contentR img {
-      width: 100%;
-      padding: 10px 0; }
+      width: 100%; }
     #content_container #contentR .stitching {
       height: 5px;
       background: url("../img/pkBoo_stitching_header.jpg") 50% no-repeat; }
@@ -203,6 +202,8 @@ header {
         #content_container #contentR p.caption .name {
           font-family: "Lusitana", serif;
           font-weight: bold; }
+    #content_container #contentR .flex-caption {
+      width: 100%; }
   #content_container.page,
   #content_container .aboutPage {
     padding: 50px 50px 0;
@@ -231,15 +232,25 @@ header {
     #content_container.page p,
     #content_container .aboutPage p {
       padding-bottom: 10px; }
-      #content_container.page p a,
-      #content_container .aboutPage p a {
-        display: inline-block; }
       #content_container.page p:first-child,
       #content_container .aboutPage p:first-child {
         font-style: italic; }
+    #content_container.page a,
+    #content_container .aboutPage a {
+      display: inline-block; }
+    #content_container.page ul,
+    #content_container .aboutPage ul {
+      list-style: disc outside none;
+      margin-left: 1em; }
+      #content_container.page ul li,
+      #content_container .aboutPage ul li {
+        list-style: initial;
+        display: list-item;
+        margin-bottom: 0.5em; }
     #content_container.page h2,
     #content_container .aboutPage h2 {
-      padding-bottom: 10px; }
+      padding-bottom: 10px;
+      font-size: 1.25em; }
     #content_container.page td,
     #content_container .aboutPage td {
       padding-bottom: 10px; }
@@ -261,11 +272,14 @@ footer {
     display: inline-block; }
     footer ul li a {
       padding: 10px; }
-  footer ul#legal li {
-    width: 49%; }
+  footer ul#legal {
+    margin-bottom: 20px; }
+    footer ul#legal li {
+      width: 49%; }
   footer ul#contact {
     padding-top: 20px;
-    margin: 0 auto; }
+    margin: 0 auto;
+    width: 210px; }
     footer ul#contact li {
       padding: 0 20px 20px; }
       footer ul#contact li a {
@@ -388,7 +402,8 @@ footer {
             border-right: none; }
       footer ul#contact {
         padding-top: 0;
-        display: inline-block; }
+        display: inline-block;
+        width: auto; }
         footer ul#contact li {
           padding: 0 0 0 6px; }
           footer ul#contact li a {

@@ -8,6 +8,9 @@ cont.style.display = 'none';
 moreless.addEventListener('click',openclose);
 
 window.addEventListener('resize',function(event){
+	cond();
+});
+function cond(){
 	var docwidth = window.innerWidth;
 
 	if(window.innerWidth>749){
@@ -25,7 +28,7 @@ window.addEventListener('resize',function(event){
 	}
 	// console.log("addEventListener called");
 	// console.log("docwidth = "+docwidth);
-});
+}
 
 function openclose(){
 	if(moreless.innerHTML === 'more'){
@@ -36,5 +39,6 @@ function openclose(){
 		moreless.innerHTML = 'more';
 	}
 }
+cond();
 
 })();
