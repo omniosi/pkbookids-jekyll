@@ -190,7 +190,8 @@ header {
   #content_container #contentR {
     width: 100%; }
     #content_container #contentR img {
-      width: 100%; }
+      height: auto;
+      margin: 0 auto; }
     #content_container #contentR .stitching {
       height: 5px;
       background: url("../img/pkBoo_stitching_header.jpg") 50% no-repeat; }
